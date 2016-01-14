@@ -1,10 +1,25 @@
 body {
   margin-left: 80px;
   margin-right: 80px;
+  background-color: #ffd9b3;
 }
 
 h1 { 
   text-align: center;
-  border: 2px solid #D667BA;
   color: #D667BA;
+}
+
+ul {
+  list-style-type: none;
+  margin-right: 0;
+  padding: 0;
+  width: 60px;
+  background-color: #000033;
+}
+
+li a {
+  display: block;
+  color: #ffd9b3;
+}
+
 }
