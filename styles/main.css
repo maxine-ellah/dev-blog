@@ -24,4 +24,9 @@ li a {
   text-decoration: none;
 }
 
+/* Change the link color on hover */
+li a:hover {
+    background-color: #D667BA;
+    color: #ffd9b3;
+
 }
