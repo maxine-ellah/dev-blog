@@ -4,6 +4,8 @@ body {
 }
 
 h1 { 
+  margin-right: auto;
+  margin-left: auto;
   border: 2px solid #D667BA;
   color: #D667BA;
 }
