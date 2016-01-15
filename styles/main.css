@@ -1,6 +1,7 @@
 body {
   margin-left: 100px;
   margin-right: 100px;
+  margin-bottom: 150px;
   background-color: #ffd9b3;
 }
 
@@ -8,8 +9,8 @@ h1 {
   text-align: center;
   color: #D667BA;
   font-family: 'Cardo', serif;
-  font-weight: 700;
-  font-size: 28px;
+  font-weight: 900;
+  font-size: 40px;
 }
 
 ul {
