@@ -37,6 +37,9 @@ li a:hover {
 h2 {
   text-align: center;
   color: #D667BA;
+  font-family: 'Cardo', serif;
+  font-weight: 700;
+  font-size: 23px;
 
 }
 
