@@ -9,6 +9,7 @@ h1 {
   color: #D667BA;
   font-family: 'Cardo', serif;
   font-weight: 700;
+  font-size: 28px;
 }
 
 ul {
@@ -45,8 +46,13 @@ h2 {
 
 h3 {
   text-align: center;
+  color: #D667BA;
+  font-family: 'Cardo', serif;
+  font-weight: 800;
 }
 
 p {
   text-align: center;
+  color: #000033;
+  font-family: 'Cardo', serif;
 }
