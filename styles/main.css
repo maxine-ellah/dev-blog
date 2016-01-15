@@ -1,6 +1,6 @@
 body {
-  margin-left: 80px;
-  margin-right: 80px;
+  margin-left: 100px;
+  margin-right: 100px;
   background-color: #ffd9b3;
 }
 
@@ -30,4 +30,16 @@ li a:hover {
     background-color: #D667BA;
     color: #ffd9b3;
 
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
 }
