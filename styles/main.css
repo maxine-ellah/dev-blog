@@ -68,6 +68,12 @@ h3 {
   font-weight: 800;
 }
 
+h4 {
+  text-align: center;
+  color: #D667BA;
+  font-family: 'Cardo', serif;
+}
+
 p {
   text-align: center;
   color: #000033;
