@@ -5,10 +5,6 @@ body {
   background-color: #ffd9b3;
 }
 
-div {
-  display: flex;
-}
-
 h1 { 
   text-align: center; 
   color: #D667BA;
