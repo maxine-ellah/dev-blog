@@ -10,22 +10,7 @@ div {
 }
 
 div h1 {
-  margin: 20px 
-  color: #D667BA;
-  font-family: 'Cardo', serif;
-  font-weight: 1000;
-  font-size: 32px;
-  background: #ea2e49;
-  background-image: initial;
-  background-position-x: initial;
-  background-position-y: initial;
-  background-size: initial;
-  background-repeat-x: initial;
-  background-repeat-y: initial;
-  background-attachment: initial;
-  background-origin: initial;
-  background-clip: initial;
-  background-color: #ffa54d;
+  margin: 20px
 }
 
 
