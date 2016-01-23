@@ -9,8 +9,13 @@ div {
   display: flex;
 }
 
+div h1 {
+  margin: 20px
+}
+
+
 h1 { 
-  text-align: center;
+  text-align: 
   color: #D667BA;
   font-family: 'Cardo', serif;
   font-weight: 1000;
