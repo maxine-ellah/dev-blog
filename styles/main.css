@@ -5,10 +5,11 @@ body {
   background-color: #ffd9b3;
 }
 
-@media only screen and (max-width: 500px)
+@media only screen and (max-width: 500px) {
   p {
     display: none;
   }
+}
 
 h1 { 
   text-align: center; 
