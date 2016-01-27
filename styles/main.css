@@ -1,3 +1,4 @@
-.header h1 {
-  background-image: url(images/dragonfruit1.jpg);
+.header {
+  background: url(images/dragonfruit1.jpg);
+  background-size: cover;
 }
