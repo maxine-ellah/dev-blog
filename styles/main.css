@@ -1,11 +1,23 @@
+body {
+  background-color: #ffcc99;
+}
+
 .header {
-  background: url(images/dragonfruit1.jpg);
+  background: url("../images/dragonfruit1.jpg");
   background-size: cover;
+}
+
+.header h1 {
+  float: left;
 }
 
 /*navigation*/
 
-nav ul {
-    justify-content: flex-start;
-    margin-bottom: 0;
-  }
+.nav {
+  margin-left: none;
+  margin-top: 20px;
+}
+
+.article {
+  margin: 5px;
+}
