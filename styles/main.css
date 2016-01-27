@@ -2,3 +2,10 @@
   background: url(images/dragonfruit1.jpg);
   background-size: cover;
 }
+
+/*navigation*/
+
+nav ul {
+    justify-content: flex-start;
+    margin-bottom: 0;
+  }
