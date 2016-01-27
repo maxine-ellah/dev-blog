@@ -1,3 +1,4 @@
 .div header {
-  background-image: url(images/pineappleicecream1.jpg);
+  background: url(../images/pineappleicecream.jpg);
+  background-image: url(../images/pineappleicecream.jpg);
 }
