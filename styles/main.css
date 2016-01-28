@@ -1,3 +1,10 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+
 body {
   background-color: #ffcc99;
 }
@@ -5,6 +12,7 @@ body {
 .header {
   background: url("../images/dragonfruit1.jpg");
   background-size: cover;
+  display: flex;
 }
 
 .header h1 {
@@ -14,10 +22,18 @@ body {
 /*navigation*/
 
 .nav {
-  margin-left: none;
   margin-top: 20px;
 }
 
 .article {
   margin: 5px;
+}
+
+.article aside {
+  float: right;
+  border-style: solid;
+  border-color: #ff1aac;
+  padding: 7px;
+  border-radius: 7px;
+  border-width: 2px;
 }
