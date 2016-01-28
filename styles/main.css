@@ -37,3 +37,10 @@ body {
   border-radius: 7px;
   border-width: 2px;
 }
+
+.intro p {
+  border: solid;
+  border-color: #ff66c8;
+  border-radius: 7px;
+  background-color: #ff66c8;
+}
