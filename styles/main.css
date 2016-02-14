@@ -23,6 +23,7 @@ body {
 
 .nav {
   margin-top: 20px;
+  display: block;
 }
 
 .article {
