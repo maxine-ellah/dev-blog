@@ -1,17 +1,42 @@
-What is scope in javascript?
-I will explain scope in the context of functions;
-When a variable is declared outside of a function e.g.
+<!DOCTYPE html>
+<html>
+  <head>
+  <link href="../styles/main.css" rel="stylesheet" type="text/css" />
+  <link href='https://fonts.googleapis.com/css?family=Cardo:700,400italic,400' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" src="//normalize-css.googlecode.com/svn/trunk/normalize.css">
 
-var food = "chips"
+   <title>Scope</title>
+    <meta charset="UTF-8">
+  
+  </head>
+  
+  <body>
+  
+    <ul>
+      <li><a href="http://maxine-ellah.github.io/">Home</a></li>
+    </ul> 
 
-function cooking(){}
+    <h1>Scope!</h1>
+    <h2>5 March 2016</h2>
 
-that variable has GLOBAL scope. This means that the variable's value ("chips") is true both outside and inside of any function. You can change the value of that variable inside of a function by re-declaring it inside the functiom, but if you use it again outside of the function, its value will remain that same as when it was first declared.
-A variable with LOCAL scope is a varible whose value is true only inside of a function. When you only declare a variable inside a function e.g.
 
-function cooking() {
-  var food = "cake"
-  return food
-}
+    <h3>What is scope in javascript?</h3>
+    <p>I will explain scope in the context of functions;
+    When a variable is declared outside of a function e.g.</p>
 
-that variable will only hold that value ("cake") inside of that function.
+    <p>var food = "chips"
+
+    function cooking(){}</p>
+
+    <p>that variable has GLOBAL scope. This means that the variable's value ("chips") is true both outside and inside of any function. You can change the value of that variable inside of a function by re-declaring it inside the functiom, but if you use it again outside of the function, its value will remain that same as when it was first declared.
+    A variable with LOCAL scope is a varible whose value is true only inside of a function. When you only declare a variable inside a function e.g.</p>
+
+    <p>function cooking() {
+      var food = "cake"
+      return food
+    }</p>
+
+    <p>that variable will only hold that value ("cake") inside of that function.</p>
+
+    </body>
+    </html>
